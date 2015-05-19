@@ -1,0 +1,4 @@
+This library is my small intent to parse elisp for my other project
+haskell-emacs.  The goal is to be able to calculate all pure elisp
+functions on the haskell side together with the haskell functions
+provided by haskell emacs.
